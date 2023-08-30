@@ -13,7 +13,7 @@ mkdir ~/scripts && cd scripts && touch script.sh
 - Display the UID and username of the user executing the script.
 - Test if the last command succeeded and display a message to indicate the status.
 - Display if the user is the root user or not.
-- Check if the logged in user matches the user yaman (use string test conditional).
+- Check if the logged in user matches the user yaman (use string test condition).
 - Create 3 users by using a for loop (where each iteration will ask for USERNAME,
 EXPIRATION_DAY, and ROLE of the user) <br/> **hint**:use read command 
 
